@@ -38,7 +38,7 @@ class Main {
       System.out.println("Press 2 to delete an item.");
       System.out.println("Press 3 to update an item.");
       System.out.println("Press 4 to show all items.");
-      System.out.println("Press 5 to quit program.");
+      System.out.println("Press 5 to quit the program.");
       userChoice = scanner.nextInt();
       scanner.nextLine();
       
